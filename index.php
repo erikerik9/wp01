@@ -13,6 +13,7 @@
         <h2>
           <a href="<?= get_permalink(); ?>"><?php the_title(); ?></a>
         </h2>
+        <h2>  かきくけこ</h2>
         <p class="postmeta">
           Posted in  <?php the_category(', '); ?> |
           <?= get_the_date(); ?> |
